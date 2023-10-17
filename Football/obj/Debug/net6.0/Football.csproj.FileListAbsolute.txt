@@ -1,0 +1,824 @@
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\appsettings.json
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Football.exe
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Football.deps.json
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Football.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Football.pdb
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.MvcApplicationPartsAssemblyInfo.cs
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.MvcApplicationPartsAssemblyInfo.cache
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets\msbuild.Football.Microsoft.AspNetCore.StaticWebAssets.props
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets\msbuild.build.Football.props
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Football.props
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Football.props
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets.pack.json
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets.build.json
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\staticwebassets.development.json
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\scopedcss\bundle\Football.styles.css
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.csproj.CopyComplete
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.dll
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\refint\Football.dll
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.pdb
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+F:\About projects\Football\Football\Football\obj\Debug\net6.0\ref\Football.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Humanizer.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\MessagePack.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Build.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.Common.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\BLL.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\DAL.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\BLL.pdb
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\DAL.pdb
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\MailKit.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\MimeKit.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Formats.Asn1.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+F:\About projects\Football\Football\Football\bin\Debug\net6.0\Twilio.dll
+F:\footballmatch\Football\bin\Debug\net6.0\appsettings.json
+F:\footballmatch\Football\bin\Debug\net6.0\Football.exe
+F:\footballmatch\Football\bin\Debug\net6.0\Football.deps.json
+F:\footballmatch\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+F:\footballmatch\Football\bin\Debug\net6.0\Football.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Football.pdb
+F:\footballmatch\Football\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Humanizer.dll
+F:\footballmatch\Football\bin\Debug\net6.0\MailKit.dll
+F:\footballmatch\Football\bin\Debug\net6.0\MessagePack.dll
+F:\footballmatch\Football\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Build.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\footballmatch\Football\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\footballmatch\Football\bin\Debug\net6.0\MimeKit.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.Common.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\footballmatch\Football\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Formats.Asn1.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+F:\footballmatch\Football\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Twilio.dll
+F:\footballmatch\Football\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+F:\footballmatch\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\footballmatch\Football\bin\Debug\net6.0\BLL.dll
+F:\footballmatch\Football\bin\Debug\net6.0\DAL.dll
+F:\footballmatch\Football\bin\Debug\net6.0\BLL.pdb
+F:\footballmatch\Football\bin\Debug\net6.0\DAL.pdb
+F:\footballmatch\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+F:\footballmatch\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+F:\footballmatch\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+F:\footballmatch\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+F:\footballmatch\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+F:\footballmatch\Football\obj\Debug\net6.0\Football.MvcApplicationPartsAssemblyInfo.cs
+F:\footballmatch\Football\obj\Debug\net6.0\Football.MvcApplicationPartsAssemblyInfo.cache
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets\msbuild.Football.Microsoft.AspNetCore.StaticWebAssets.props
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets\msbuild.build.Football.props
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Football.props
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Football.props
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets.pack.json
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets.build.json
+F:\footballmatch\Football\obj\Debug\net6.0\staticwebassets.development.json
+F:\footballmatch\Football\obj\Debug\net6.0\scopedcss\bundle\Football.styles.css
+F:\footballmatch\Football\obj\Debug\net6.0\Football.csproj.CopyComplete
+F:\footballmatch\Football\obj\Debug\net6.0\Football.dll
+F:\footballmatch\Football\obj\Debug\net6.0\refint\Football.dll
+F:\footballmatch\Football\obj\Debug\net6.0\Football.pdb
+F:\footballmatch\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+F:\footballmatch\Football\obj\Debug\net6.0\ref\Football.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\footballmatch\Football\bin\Debug\net6.0\PayPalCheckoutSdk.dll
+F:\footballmatch\Football\bin\Debug\net6.0\PayPalHttp-Dotnet.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Google.Apis.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Google.Apis.Auth.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Google.Apis.Core.dll
+F:\footballmatch\Football\bin\Debug\net6.0\Google.Apis.Drive.v3.dll
+F:\footballmatch\Football\bin\Debug\net6.0\PayPal.dll
+F:\footballmatch\Football\bin\Debug\net6.0\credentials.json
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.MvcApplicationPartsAssemblyInfo.cs
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.MvcApplicationPartsAssemblyInfo.cache
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.dll
+E:\backendStanderRepo\Football\obj\Debug\net6.0\refint\Football.dll
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.pdb
+E:\backendStanderRepo\Football\bin\Debug\net6.0\appsettings.json
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ecommerce-402307-02576681cce4.json
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Football.exe
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Football.deps.json
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Football.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Football.pdb
+E:\backendStanderRepo\Football\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Google.Apis.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Google.Apis.Auth.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Google.Apis.Core.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Google.Apis.Drive.v3.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Humanizer.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\MailKit.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\MessagePack.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Build.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\MimeKit.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.Common.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\PayPal.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\PayPalCheckoutSdk.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\PayPalHttp-Dotnet.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\Twilio.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\BLL.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\DAL.dll
+E:\backendStanderRepo\Football\bin\Debug\net6.0\BLL.pdb
+E:\backendStanderRepo\Football\bin\Debug\net6.0\DAL.pdb
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets\msbuild.Football.Microsoft.AspNetCore.StaticWebAssets.props
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets\msbuild.build.Football.props
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Football.props
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Football.props
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets.pack.json
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets.build.json
+E:\backendStanderRepo\Football\obj\Debug\net6.0\staticwebassets.development.json
+E:\backendStanderRepo\Football\obj\Debug\net6.0\scopedcss\bundle\Football.styles.css
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.csproj.CopyComplete
+E:\backendStanderRepo\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+E:\backendStanderRepo\Football\obj\Debug\net6.0\ref\Football.dll

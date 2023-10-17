@@ -1,0 +1,60 @@
+F:\About projects\Football\Football\BLL\bin\Debug\net6.0\BLL.deps.json
+F:\About projects\Football\Football\BLL\bin\Debug\net6.0\BLL.dll
+F:\About projects\Football\Football\BLL\bin\Debug\net6.0\BLL.pdb
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.dll
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\refint\BLL.dll
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.pdb
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\ref\BLL.dll
+F:\About projects\Football\Football\BLL\bin\Debug\net6.0\DAL.dll
+F:\About projects\Football\Football\BLL\bin\Debug\net6.0\DAL.pdb
+F:\About projects\Football\Football\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+F:\footballmatch\BLL\bin\Debug\net6.0\BLL.deps.json
+F:\footballmatch\BLL\bin\Debug\net6.0\BLL.dll
+F:\footballmatch\BLL\bin\Debug\net6.0\BLL.pdb
+F:\footballmatch\BLL\bin\Debug\net6.0\DAL.dll
+F:\footballmatch\BLL\bin\Debug\net6.0\DAL.pdb
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.dll
+F:\footballmatch\BLL\obj\Debug\net6.0\refint\BLL.dll
+F:\footballmatch\BLL\obj\Debug\net6.0\BLL.pdb
+F:\footballmatch\BLL\obj\Debug\net6.0\ref\BLL.dll
+F:\About projects\ECommerce\ECommerceBackend\BLL\bin\Debug\net6.0\BLL.deps.json
+F:\About projects\ECommerce\ECommerceBackend\BLL\bin\Debug\net6.0\BLL.dll
+F:\About projects\ECommerce\ECommerceBackend\BLL\bin\Debug\net6.0\BLL.pdb
+F:\About projects\ECommerce\ECommerceBackend\BLL\bin\Debug\net6.0\DAL.dll
+F:\About projects\ECommerce\ECommerceBackend\BLL\bin\Debug\net6.0\DAL.pdb
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.dll
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\refint\BLL.dll
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\BLL.pdb
+F:\About projects\ECommerce\ECommerceBackend\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\backendStanderRepo\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\backendStanderRepo\BLL\bin\Debug\net6.0\BLL.dll
+E:\backendStanderRepo\BLL\bin\Debug\net6.0\BLL.pdb
+E:\backendStanderRepo\BLL\bin\Debug\net6.0\DAL.dll
+E:\backendStanderRepo\BLL\bin\Debug\net6.0\DAL.pdb
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.dll
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\BLL.pdb
+E:\backendStanderRepo\BLL\obj\Debug\net6.0\ref\BLL.dll
