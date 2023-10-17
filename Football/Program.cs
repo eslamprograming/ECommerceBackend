@@ -3,6 +3,8 @@ using BLL.IService;
 using BLL.Service;
 using DAL.Data;
 using DAL.Entities;
+using DAL.IRepo;
+using DAL.Repo;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -25,8 +27,16 @@ builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailS
 
 
 builder.Services.AddScoped<ISendMailService,SendMailService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
 
 
+//Repo
+
+builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
+builder.Services.AddScoped<IOrderRepo, OrderRepo>();
+builder.Services.AddScoped<IProductRepo, ProductRepo>();
 
 
 

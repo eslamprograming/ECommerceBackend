@@ -14,7 +14,6 @@ namespace DAL.IRepo
         Task<Response<Category>> DeleteCategoryRepo(int CategoryID);
         Task<Response<Category>> GetAllCategoriesRepo(int group);
         Task<Response<Category>> GetAllCategoriesRepo();
-
         Task<Response<Category>> GetCategoryRepo(int CategoryID);
         Task<Response<Category>> UpdateCategoryRepo(int CategoryID,Category category);
 

@@ -2,6 +2,7 @@
 using DAL.Entities;
 using DAL.IRepo;
 using DAL.Models.SheardVM;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,7 @@ namespace DAL.Repo
 {
     public class OrderRepo : IOrderRepo
     {
-        private ApplicationDbContext db;
+        private readonly ApplicationDbContext db;
 
         public OrderRepo(ApplicationDbContext db)
         {
@@ -23,11 +24,13 @@ namespace DAL.Repo
         {
             try
             {
+                await db.orders.AddAsync(Order);
+                await db.SaveChangesAsync();
                 return new Response<Order>
                 {
                     success = true,
                     statuscode = "200",
-
+                    Value=Order
                 };
             }
             catch (Exception ex)
@@ -45,10 +48,23 @@ namespace DAL.Repo
         {
             try
             {
+                var Order = await db.orders.Where(n => n.IsDeleted == false && n.OrderID == OrderID)
+                    .SingleOrDefaultAsync();
+                if(Order == null)
+                {
+                    return new Response<Order>
+                    {
+                        success = false,
+                        statuscode = "400",
+                        message = "this order deleted"
+                    };
+                }
+                Order.IsDeleted = true;
+                await db.SaveChangesAsync();
                 return new Response<Order>
                 {
                     success = true,
-                    statuscode = "200",
+                    statuscode = "200"
 
                 };
             }
@@ -67,12 +83,24 @@ namespace DAL.Repo
         {
             try
             {
+                var OrderCount = await db.orders.CountAsync();
+                int pagging;
 
+                if (OrderCount % 10 == 0)
+                {
+                    pagging = OrderCount / 10;
+                }
+                else
+                {
+                    pagging = (OrderCount / 10) + 1;
+                }
+                var Order = await db.orders.Skip((group - 1) * 10).Take(10).Include(n=>n.Products).ToListAsync();
                 return new Response<Order>
                 {
                     success = true,
                     statuscode = "200",
-
+                    values=Order,
+                    groups=pagging
                 };
             }
             catch (Exception ex)
@@ -90,11 +118,12 @@ namespace DAL.Repo
         {
             try
             {
+                var Order = await db.orders.Where(n => n.IsDeleted == false).Include(n => n.Products).ToListAsync();
                 return new Response<Order>
                 {
                     success = true,
                     statuscode = "200",
-
+                    values=Order
                 };
             }
             catch (Exception ex)
@@ -112,11 +141,13 @@ namespace DAL.Repo
         {
             try
             {
+                var Order = await db.orders.Where(n => n.IsDeleted == false && n.OrderID==OrderID)
+                    .Include(n => n.Products).SingleOrDefaultAsync();
                 return new Response<Order>
                 {
                     success = true,
                     statuscode = "200",
-
+                    Value=Order
                 };
             }
             catch (Exception ex)
@@ -134,10 +165,15 @@ namespace DAL.Repo
         {
             try
             {
+                var Order1 = await db.orders.Where(n => n.IsDeleted == false && n.OrderID == OrderID).SingleOrDefaultAsync();
+                Order1.OrderDate=Order.OrderDate;
+                Order1.Status = Order.Status;
+                Order.Products = Order.Products;
+                await db.SaveChangesAsync();
                 return new Response<Order>
                 {
                     success = true,
-                    statuscode = "200",
+                    statuscode = "200"
 
                 };
             }
