@@ -106,6 +106,24 @@ namespace BLL.Service
             }
         }
 
+        public async Task<Response<Product>> GetAllproductCategoryAsync(int CategoryID)
+        {
+            try
+            {
+                var result = await _productRepo.GetAllProductsInCategoryRepo(CategoryID);
+                return result;
+            }
+            catch (Exception ex)
+            {
+                return new Response<Product>
+                {
+                    success = false,
+                    statuscode = "500",
+                    message = ex.Message
+                };
+            }
+        }
+
         public async Task<Response<Product>> GetProductAsync(int ProductID)
         {
             try

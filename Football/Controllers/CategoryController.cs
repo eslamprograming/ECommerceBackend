@@ -1,5 +1,6 @@
 ﻿using BLL.IService;
 using DAL.Models.CategoryVM;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,7 @@ namespace Football.Controllers
             _categoryService = categoryService;
         }
         [HttpPost("AddCategory")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> AddCategory([FromForm]CategoryVM categoryVM)
         {
             if (!ModelState.IsValid) { return BadRequest(ModelState); }
@@ -23,6 +25,7 @@ namespace Football.Controllers
             return Ok(result);
         }
         [HttpDelete("DeleteCategory")]
+        [Authorize(Roles ="Admin")]
         public async Task<IActionResult> DeleteCategory(int CategoryID)
         {
             if (CategoryID > 0)
@@ -52,6 +55,7 @@ namespace Football.Controllers
             var result = await _categoryService.GetCategoryAsync(CategoryID); return Ok(result);
         }
         [HttpPut("UpdateCategory")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> UpdateCategory(int CategoryID,[FromForm]CategoryVM Category)
         {
             if (CategoryID > 0)

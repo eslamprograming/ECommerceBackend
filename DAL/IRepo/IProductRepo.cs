@@ -13,6 +13,7 @@ namespace DAL.IRepo
         Task<Response<Product>> CreateProductRepo(Product Product);
         Task<Response<Product>> DeleteProductRepo(int ProductID);
         Task<Response<Product>> GetAllProductsRepo(int group);
+        Task<Response<Product>> GetAllProductsInCategoryRepo(int CategoryID);
         Task<Response<Product>> GetAllProductsRepo();
         Task<Response<Product>> GetProductRepo(int ProductID);
         Task<Response<Product>> UpdateProductRepo(int ProductID, Product Product);

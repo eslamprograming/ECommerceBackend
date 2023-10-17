@@ -14,6 +14,7 @@ namespace BLL.IService
         Task<Response<Product>> CreateProductAsync(ProductVM Product);
         Task<Response<Product>> DeleteProductAsync(int ProductID);
         Task<Response<Product>> GetAllCategoriesAsync(int group);
+        Task<Response<Product>> GetAllproductCategoryAsync(int CategoryID);
         Task<Response<Product>> GetAllCategoriesAsync();
         Task<Response<Product>> GetProductAsync(int ProductID);
         Task<Response<Product>> UpdateProductAsync(int ProductID, ProductUpdateVM Product);
